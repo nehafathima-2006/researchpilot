@@ -1,0 +1,6 @@
+{
+  "name": "ResearchPilot – AI Research & Analysis Agent",
+  "description": "Autonomous AI research agent that executes multi-step investigation, search grounding, vector RAG, claim verification, hallucination checks, and rigorous evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
